@@ -4,7 +4,7 @@ _ES_:
 Estudio mendiante consultas de Spark de la colección de obras de arte del Museo de Arte Moderno de Nuevo York (MoMA).
 
 _EN_:
-Study of Spark's begging queries from the collection of works of art at the Museum of Modern Art in New York (MoMA).
+Analysis of the Museum of Modern Art (MoMA) collection of artworks using Spark queries.
 
 ## Descipción de archivos
 
