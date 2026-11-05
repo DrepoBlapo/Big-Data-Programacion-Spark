@@ -1,4 +1,6 @@
-# Big-Data-Programacion-Spark
+![Banner](banner/banner_github.png)
+
+## Proyecto
 
 _ES_:
 Estudio mendiante consultas de Spark de la colección de obras de arte del Museo de Arte Moderno de Nuevo York (MoMA).
